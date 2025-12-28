@@ -13,7 +13,3 @@ This repository contains an n8n workflow that:
 
 ## How it works
 The workflow uses a scheduled trigger, Gmail integration, AI-based filtering, and notification nodes.
-
-## File
-- job-alert-n8n.json – main workflow export
-- 
